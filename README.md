@@ -140,6 +140,6 @@ Done! You are set to go!
 <br /> [Becca Jonas](https://github.com/beccajonas/introduction)
 <br /> [Martin Brejniak](https://github.com/Martin-Brejniak/introduction)
 <br /> [Saachi Dinesh Kotadia]( https://github.com/Saachi-Kotadia/Introduction.git)
-<br /> [Joseph Szpigiel](https://github.com/JosephSzpigiel/introduction)
-
+<br /> [Brianna Hayes](https://github.com/briannahayes/introduction.git)
+> 
 
